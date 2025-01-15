@@ -1,0 +1,14 @@
+{
+  "name": "@redphx/better-xcloud",
+  "appName": "Better xCloud",
+  "version": "0.1.0",
+  "description": "Better xCloud for Tizen TV",
+  "packageType": "mods",
+  "websiteURL": "https://www.xbox.com/en-US/play",
+  "main": "dist/better-xcloud.js",
+  "author": "redphx",
+  "repository": {
+    "url": "https://github.com/redphx/better-xcloud-tizen"
+  },
+  "license": "MIT"
+}
